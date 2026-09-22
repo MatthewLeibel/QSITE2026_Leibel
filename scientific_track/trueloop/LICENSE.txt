@@ -1,0 +1,25 @@
+TrueLoop Compute -- Stability Contract v3.1.0rc90
+Evaluation Edition
+Copyright (c) 2026 NEOTECH Inc. All rights reserved.
+
+Provided for internal technical evaluation only, for a period of 90 days
+beginning on the day the software is first used on the licensee's system,
+provided that first use occurs no later than 2027-03-18.
+
+No production use, redistribution, sublicensing, public disclosure,
+decompilation, reverse engineering, or derivative distribution.
+
+Numerically identical to the licensed edition: same golden vectors,
+same core fingerprint. Nothing is degraded or limited.
+
+Term: 90 days from first use. Activate by: 2027-03-18.
+The activation record is written to ~/.trueloop/ (or the directory named
+by the TRUELOOP_HOME environment variable). The term is checked only when
+a contract is constructed; a running loop is never interrupted.
+
+The core fingerprint printed by `python -m trueloop` identifies the exact law:
+
+    ff7d965186e402e8b94117843df06ec1479f5a3c8b5d0a057afed5b5318ff5bb
+
+Issued: 2026-09-19
+Contact: matthew@trueloopcompute.com

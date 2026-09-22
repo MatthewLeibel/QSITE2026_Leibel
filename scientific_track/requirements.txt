@@ -1,0 +1,7 @@
+pennylane>=0.44
+numpy
+scipy
+matplotlib
+nbformat
+nbconvert
+ipykernel
